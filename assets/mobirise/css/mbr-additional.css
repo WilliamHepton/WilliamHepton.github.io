@@ -2970,6 +2970,94 @@ section.lazy-placeholder:after {
 .cid-rJRkH6Zwfc .head-item {
   text-align: left;
 }
+.cid-rK5f7In6qz {
+  padding-top: 45px;
+  padding-bottom: 90px;
+  background-color: #106784;
+}
+.cid-rK5f7In6qz .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rK5f7In6qz .container-table {
+  margin: 0 auto;
+}
+.cid-rK5f7In6qz .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rK5f7In6qz .dataTables_wrapper {
+  display: block;
+}
+.cid-rK5f7In6qz .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rK5f7In6qz .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rK5f7In6qz table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #232323;
+  margin-bottom: 0;
+}
+.cid-rK5f7In6qz table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rK5f7In6qz table th:hover {
+  background: #232323;
+  color: #ffffff;
+}
+.cid-rK5f7In6qz table td {
+  border-top: 1px solid #232323;
+}
+.cid-rK5f7In6qz table.table {
+  background: #27a467;
+}
+.cid-rK5f7In6qz .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rK5f7In6qz .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rK5f7In6qz .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rK5f7In6qz .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rK5f7In6qz .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rK5f7In6qz .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rK5f7In6qz .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rK5f7In6qz .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rK5f7In6qz .head-item {
+  text-align: left;
+}
+.cid-rK5f7In6qz .body-item {
+  text-align: left;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
